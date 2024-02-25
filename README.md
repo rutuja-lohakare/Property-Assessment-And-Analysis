@@ -9,7 +9,7 @@ This repository contains the R code for a project focused on estimating property
 ## Methodology
 
 ### Data Preprocessing
-Utilizing three datasets: 'historic_property_data' and 'codebook', the initial steps included:
+Utilizing the dataset 'historic_property_data', the initial steps included:
 - Removal of non-predictive attributes.
 - Elimination of duplicate entries.
 - Handling of missing data.
